@@ -17,6 +17,7 @@ ELEVATE is your one-stop location which is an AI-based depression detection syst
 ## How we built it
 
 ELEVATE was created using the following open source projects:
+
 *[Tailwind CSS UI models] - Front-End Framework
 *[HTML]- Front-End Outline
 * [Flask]                     - Python framework for back-end
