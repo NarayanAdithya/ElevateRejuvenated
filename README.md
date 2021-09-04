@@ -17,12 +17,12 @@ ELEVATE is your one-stop location which is an AI-based depression detection syst
 
 ELEVATE was created using the following open source projects:
 
-*[Tailwind CSS UI models] - Front-End Framework
-*[HTML]- Front-End Outline
 * [Flask]                     - Python framework for back-end
 * [Flask-Socketio]            - Flask add on for socket.io support
 * [Flask-SQLAlchemy]          - Flask package for manipulating databases
 * [FlaskWTF Forms]            - Flask form handler
+* [Tailwind CSS UI models] - Front-End Framework
+* [HTML]- Front-End Outline
 * [Keras/Tenserflow]   - ML Model
 * [OpenCV]             - Image/Video Capture
 
